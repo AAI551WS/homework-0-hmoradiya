@@ -6,8 +6,7 @@ def hello_world():
     """
 
     # Write a comment; comments are very useful to other programmers.
-    # This is a comment providing additional information.
-
+    # When function hello_world() is called, it prints the string "Hello, World!".
     # Write a Python statement to print Hello, World!
     print("Hello, World!")
 
